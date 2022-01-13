@@ -1,0 +1,30 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: darkred;
+}
+
+.pading {
+    background-color: grey;
+    padding: 20px;
+    color: white;
+}
+
+.top_pading {
+    padding-top: 30px;
+    padding-bottom:  30px;
+    background-color: burlywood;
+}
+
+.box {
+    min-height: 300px;
+    width: 300px;
+    background-color: green;
+}
+
+.box2 {
+    min-height: 300px;
+    width: 300px;
+    background-color: royalblue;
+    border-radius: 25px 25px 25px 25px;
+}
