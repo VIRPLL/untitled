@@ -1,0 +1,39 @@
+
+
+p {
+    width: 200px;
+    height: 110px;
+    background-color: coral;
+    text-align: center;
+    padding-top: 90px;
+    margin: 100px;
+    border: 2px solid #000000;
+}
+
+
+
+.a {
+    box-shadow: black 30px 30px 2px 3px;
+}
+
+.b {
+    box-shadow: black 30px 30px 10px 3px;
+}
+
+.c {
+    box-shadow: black 20px 20px 10px 5px;
+}
+
+.d {
+    box-shadow: grey 20px 20px 4px 5px;
+}
+
+.e {
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: darkslategray 20px 20px 10px 5px;
+}
+
+.f {
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: grey 20px 20px 15px 5px;
+}
