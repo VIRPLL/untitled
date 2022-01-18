@@ -1,0 +1,43 @@
+body {
+    width: 600px;
+    margin: auto;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    width: 600px;
+    height: 80px;
+    background-color: #40bb3c;
+}
+
+.nav {
+    width: 600px;
+    height: 100px;
+    background-color: #365bc5;
+}
+
+.main {
+    width: 400px;
+    height: 400px;
+    background-color: #6c2507;
+}
+
+.aside {
+    width: 200px;
+    height: 400px;
+    background-color: #9ca0a8;
+}
+
+.footer {
+    width: 600px;
+    height: 100px;
+    background-color: #0f276c;
+}
