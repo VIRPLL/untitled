@@ -1,0 +1,40 @@
+body {
+    width: 900px;
+    height: 600px;
+    margin: 100px auto;
+    background-color: #fd8554;
+}
+
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    border-radius: 15px 15px 15px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.nokia {
+    margin-top: 60px;
+}
+
+p {
+    margin: 40px 20px;
+}
+
+.hi {
+    padding-left: 30px;
+}
