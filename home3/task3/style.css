@@ -1,0 +1,30 @@
+body {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.a {
+    width: 600px;
+    height: 100px;
+    background-color: #5b5858;
+    margin-bottom: 20px;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.b {
+    width: 430px;
+    height: 250px;
+    background-color: #5b5858;
+}
+
+.c {
+    width: 150px;
+    height: 250px;
+    background-color: #5b5858;
+}
