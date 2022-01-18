@@ -6,7 +6,7 @@ body {
 .conteiner {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    flex-wrap: wrap;
 }
 
 .top {
@@ -26,4 +26,6 @@ body {
     width: 800px;
     height: 500px;
     background-color: royalblue;
+    margin-top: 20px;
+
 }
