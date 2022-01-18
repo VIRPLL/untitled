@@ -1,0 +1,29 @@
+body {
+    width: 800px;
+    margin: auto;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.top {
+    width: 800px;
+    height: 250px;
+    background-color: royalblue;
+    margin-bottom: 20px;
+}
+
+.more {
+    width: 250px;
+    height: 250px;
+    background-color: #0f276c;
+}
+
+.contact {
+    width: 800px;
+    height: 500px;
+    background-color: royalblue;
+}
