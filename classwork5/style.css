@@ -1,3 +1,4 @@
+
 .center {
     display: flex;
     justify-content: center;
@@ -16,7 +17,7 @@ div {
     box-sizing: border-box;
 }
 
-@media screen and (min-width: 992px) and (max-width: 2999px){
+@media screen and (min-width: 992px) and (max-width: 1199px){
     body {
         max-width: 992px;
         margin: 100px auto;
@@ -74,7 +75,7 @@ div {
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 992px){
+@media screen and (min-width: 769px) and (max-width: 991px){
     body {
         max-width: 768px;
         margin: 100px auto;
