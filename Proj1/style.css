@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.top_bar {
+    height: 83px;
+    width: 1440px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flex {
+    display: flex;
+}
+
+.nav {
+    gap: 56px;
+}
+
+.nav_us {
+    gap : 24px;
+    align-items: center;
+}
+
+.logo {
+    width: 95px;
+    height: 36px;
+}
+
+.nav_button {
+    width: 163px;
+    height: 54px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+}
