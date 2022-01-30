@@ -13,6 +13,7 @@
 
 .flex {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .nav {
@@ -35,4 +36,129 @@
     border-radius: 4px;
     background-color: black;
     color: white;
+}
+
+.right {
+    width: 720px;
+    height: 886px;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+
+.elem {
+    position: relative;
+    top: -886px;
+    right: 70px;
+}
+
+.zag {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    width: 436px;
+    height: 256px;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.text_1 {
+    height: 96px;
+    width: 435px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.button_article_1 {
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+.button_article_2 {
+    width: 156px;
+    height: 54px;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.zag_2 {
+    margin-top: 189px;
+    font-size: 42px;
+    font-weight: 400;
+    width: 547px;
+    height: 96px;
+    text-align: center;
+}
+
+.partners_elem {
+    width: 203px;
+    height: 56px;
+}
+
+.partners_zone {
+    margin-top: 59px;
+    width: 1143px;
+    height: 200px;
+    justify-content: space-around;
+}
+
+.bike {
+    align-content: center;
+    margin-top: 192px;
+    width: 1376px;
+    height: 494px;
+    border-radius: 10px;
+    background: #51CEBC;
+}
+
+.bike_img {
+    width: 670px;
+    height: 382px;
+}
+
+
+.zone1 {
+    width: 557px;
+    height: 120px;
+    margin: 90px 0 0 0;
+    font-size: 34px;
+}
+
+.zone2 {
+    width: 533px;
+    height: 64px;
+    font-size: 22px;
+    margin: 35px 0;
+}
+
+.foto_box {
+    margin-top: 191px;
+}
+
+.foto_box_zag {
+    margin-bottom: 57px;
+    width: 711px;
+    height: 80px;
+    font-size: 34px;
+    font-weight: 400;
+}
+
+.button_article_3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 113px;
+    display: block;
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
 }
